@@ -1,0 +1,97 @@
+<svg height="1502" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1502" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 15:06:05 +0000   858845 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 15:06:05 +0000     1081 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 15:06:05 +0000     3557 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 15:06:05 +0000      845 bytes  SECURITY.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 15:06:05 +0000     2300 bytes  bin/ampersand</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 15:06:05 +0000     2090 bytes  lib/app/generateApp.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 15:06:05 +0000     1608 bytes  lib/app/getPackageFile.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 15:06:05 +0000      288 bytes  lib/app/processString.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 15:06:05 +0000      959 bytes  lib/app/templatePackage.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 15:06:05 +0000      599 bytes  lib/app/transformStream.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 15:06:05 +0000     2601 bytes  lib/app/wizard.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 15:06:05 +0000     5389 bytes  lib/gen-types/form.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 15:06:05 +0000      119 bytes  lib/gen-types/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 15:06:05 +0000     2587 bytes  lib/gen-types/model.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 15:06:05 +0000     4612 bytes  lib/generate-template.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 15:06:05 +0000     1386 bytes  lib/helpers/clean.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 15:06:05 +0000      261 bytes  lib/helpers/process-template.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 15:06:05 +0000      384 bytes  lib/helpers/stdin.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 15:06:05 +0000      248 bytes  lib/quit.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 15:06:05 +0000      648 bytes  lib/readfilesync.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 15:06:05 +0000      155 bytes  lib/templates/array-input.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 15:06:05 +0000      129 bytes  lib/templates/checkbox-input.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 15:06:05 +0000      272 bytes  lib/templates/collection.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 15:06:05 +0000      191 bytes  lib/templates/form.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 15:06:05 +0000      206 bytes  lib/templates/input.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 15:06:05 +0000      161 bytes  lib/templates/model.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 15:06:05 +0000      173 bytes  lib/templates/page.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-19 15:06:05 +0000      244 bytes  lib/templates/router.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-19 15:06:05 +0000      191 bytes  lib/templates/select-input.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-19 15:06:05 +0000      173 bytes  lib/templates/view.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-19 15:06:05 +0000     2823 bytes  package.json</tspan>
+<tspan x="10" y="522"> 31.  2017-04-19 15:06:05 +0000     1503 bytes  template/express/fakeApi.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-19 15:06:05 +0000     3762 bytes  template/express/server.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-19 15:06:05 +0000     2218 bytes  template/hapi/fakeApi.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-19 15:06:05 +0000     3084 bytes  template/hapi/moonbootsConfig.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-19 15:06:05 +0000     1391 bytes  template/hapi/server.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-19 15:06:05 +0000      710 bytes  template/hapi/staticRoutes.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-19 15:06:05 +0000      530 bytes  template/shared/README.md</tspan>
+<tspan x="10" y="634"> 38.  2017-04-19 15:06:05 +0000     1397 bytes  template/shared/client/app.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-19 15:06:05 +0000     1437 bytes  template/shared/client/forms/person.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-19 15:06:05 +0000      730 bytes  template/shared/client/models/me.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-19 15:06:05 +0000     1043 bytes  template/shared/client/models/person.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-19 15:06:05 +0000      174 bytes  template/shared/client/models/persons.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-19 15:06:05 +0000      613 bytes  template/shared/client/pages/base.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-19 15:06:05 +0000     1698 bytes  template/shared/client/pages/collection-demo.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-19 15:06:05 +0000      174 bytes  template/shared/client/pages/home.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-19 15:06:05 +0000      179 bytes  template/shared/client/pages/info.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-19 15:06:05 +0000      878 bytes  template/shared/client/pages/person-add.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-19 15:06:05 +0000     1377 bytes  template/shared/client/pages/person-edit.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-19 15:06:05 +0000     1096 bytes  template/shared/client/pages/person-show.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-19 15:06:05 +0000     1486 bytes  template/shared/client/router.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-19 15:06:05 +0000     7023 bytes  template/shared/client/templates.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-19 15:06:05 +0000     3073 bytes  template/shared/client/views/main.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-19 15:06:05 +0000      773 bytes  template/shared/client/views/person.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-19 15:06:05 +0000      353 bytes  template/shared/config/default.json</tspan>
+<tspan x="10" y="906"> 55.  2017-04-19 15:06:05 +0000     3471 bytes  template/shared/public/favicon.ico</tspan>
+<tspan x="10" y="922"> 56.  2017-04-19 15:06:05 +0000     6746 bytes  template/shared/public/images/logo-ampersand.png</tspan>
+<tspan x="10" y="938"> 57.  2017-04-19 15:06:05 +0000       23 bytes  template/shared/public/robots.txt</tspan>
+<tspan x="10" y="954"> 58.  2017-04-19 15:06:05 +0000     5582 bytes  template/shared/stylesheets/_mixins.styl</tspan>
+<tspan x="10" y="970"> 59.  2017-04-19 15:06:05 +0000     3002 bytes  template/shared/stylesheets/_reset.styl</tspan>
+<tspan x="10" y="986"> 60.  2017-04-19 15:06:05 +0000      349 bytes  template/shared/stylesheets/_variables.styl</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-19 15:06:05 +0000       29 bytes  template/shared/stylesheets/app.css</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-19 15:06:05 +0000       58 bytes  template/shared/stylesheets/app.styl</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-19 15:06:05 +0000      844 bytes  template/shared/stylesheets/app/footer.styl</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-19 15:06:05 +0000      130 bytes  template/shared/stylesheets/app/main.styl</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-19 15:06:05 +0000   132546 bytes  template/shared/stylesheets/bootstrap.css</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-19 15:06:05 +0000     1431 bytes  template/shared/templates/body.jade</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-19 15:06:05 +0000      145 bytes  template/shared/templates/head.jade</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-19 15:06:05 +0000      151 bytes  template/shared/templates/includes/formInput.jad\</tspan>
+<tspan x="10" y="1130">e</tspan>
+<tspan x="10" y="1146"> 69.  2017-04-19 15:06:05 +0000      256 bytes  template/shared/templates/includes/person.jade</tspan>
+<tspan x="10" y="1162"> 70.  2017-04-19 15:06:05 +0000      928 bytes  template/shared/templates/pages/collectionDemo.j\</tspan>
+<tspan x="10" y="1178">ade</tspan>
+<tspan x="10" y="1194"> 71.  2017-04-19 15:06:05 +0000     1227 bytes  template/shared/templates/pages/home.jade</tspan>
+<tspan x="10" y="1210"> 72.  2017-04-19 15:06:05 +0000      126 bytes  template/shared/templates/pages/info.jade</tspan>
+<tspan x="10" y="1226"> 73.  2017-04-19 15:06:05 +0000      362 bytes  template/shared/templates/pages/personAdd.jade</tspan>
+<tspan x="10" y="1242"> 74.  2017-04-19 15:06:05 +0000      364 bytes  template/shared/templates/pages/personEdit.jade</tspan>
+<tspan x="10" y="1258"> 75.  2017-04-19 15:06:05 +0000      191 bytes  template/shared/templates/pages/personView.jade</tspan>
+<tspan x="10" y="1274"> 76.  2017-04-19 15:06:05 +0000    92630 bytes  template/shared/test/assets/jquery-1.9.1.min.js</tspan>
+<tspan x="10" y="1290"> 77.  2017-04-19 15:06:05 +0000   449508 bytes  template/shared/test/assets/lodash-3.6.0.js</tspan>
+<tspan x="10" y="1306"> 78.  2017-04-19 15:06:05 +0000     4172 bytes  template/shared/test/assets/ninja.css</tspan>
+<tspan x="10" y="1322"> 79.  2017-04-19 15:06:05 +0000     4252 bytes  template/shared/test/assets/qunit.css</tspan>
+<tspan x="10" y="1338"> 80.  2017-04-19 15:06:05 +0000    58502 bytes  template/shared/test/assets/qunit.js</tspan>
+<tspan x="10" y="1354"> 81.  2017-04-19 15:06:05 +0000      722 bytes  template/shared/test/index.jade</tspan>
+<tspan x="10" y="1370"> 82.  2017-04-19 15:06:05 +0000     1323 bytes  template/shared/test/spacemonkey/functionalTests\</tspan>
+<tspan x="10" y="1386">.js</tspan>
+<tspan x="10" y="1402"> 83.  2017-04-19 15:06:05 +0000      436 bytes  template/shared/test/spacemonkey/spacemonkey.css</tspan>
+<tspan x="10" y="1418"> 84.  2017-04-19 15:06:05 +0000     6684 bytes  template/shared/test/spacemonkey/spacemonkey.dem\</tspan>
+<tspan x="10" y="1434">o.js</tspan>
+<tspan x="10" y="1450"> 85.  2017-04-19 15:06:05 +0000     9047 bytes  template/shared/test/spacemonkey/spacemonkey.js</tspan>
+<tspan x="10" y="1466"> 86.  2017-04-19 15:06:05 +0000        0 bytes  template/shared/test/templates/instruct.jade</tspan>
+<tspan x="10" y="1482"> 87.  2017-04-19 15:06:05 +0000      626 bytes  test.js</tspan>
+</text>
+</svg>
