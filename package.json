@@ -1,1 +1,40 @@
-{     "devDependencies": {         "ampersand": "*",         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-ampersand",     "homepage": "https://github.com/npmtest/node-npmtest-ampersand",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-ampersand.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### test coverage for  [ampersand (v3.0.6)](https://github.com/ampersandjs/ampersand)  [![npm package](https://img.shields.io/npm/v/npmtest-ampersand.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ampersand) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ampersand.svg)](https://travis-ci.org/npmtest/node-npmtest-ampersand)",
+    "devDependencies": {
+        "ampersand": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-ampersand",
+    "keywords": [
+        "coverage",
+        "test",
+        "ampersand"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_ampersand.js",
+    "name": "npmtest-ampersand",
+    "nameAlias": "npmtest_ampersand",
+    "nameOriginal": "npmtest-ampersand",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-ampersand.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
